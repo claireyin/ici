@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#encoding:utf-8
+#encoding:gbk
 from __future__ import unicode_literals
 
 import re
