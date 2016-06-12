@@ -1,4 +1,4 @@
-#encoding:utf-8
+#encoding:gbk
 from setuptools import setup, find_packages
 import sys, os
 
